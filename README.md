@@ -4,8 +4,6 @@
 
 The link below connects to part one of my final project. This section concentrates on the initial high level summary and outline of the project, the data sources, and the planned approach.
 
-
-
 [Click here to see part #1 my final project](https://tdwyer07.github.io/final_project_Tim_Dwyer/)
 
 ## Part 2 - Design and User Research
