@@ -6,7 +6,7 @@ The link below connects to part one of my final project. This section concentrat
 
 
 
-[Click here to see my final project](https://tdwyer07.github.io/final_project_Tim_Dwyer/)
+[Click here to see part #1 my final project](https://tdwyer07.github.io/final_project_Tim_Dwyer/)
 
 ## Part 2 - Design and User Research
 
@@ -16,13 +16,11 @@ The link below connects to part two of my final project. The second part of the 
 
 ## Part 3 - The Final Story
 
-
+The intended audience for my final data story is 
 
 A few paragraphs that talk about the intended audience for your final data story.  Include any personas and / or other information you've used that helped you narrow the focus.  Talk about specific things you did to your final project to make it work for your audience. 
 
 A few paragraphs that summarize the work you've done so far.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
-
-Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. (Part III)
 
 
 
